@@ -3,4 +3,4 @@ function firstChar(text) {
   return text.length > 0 ? text[0] : ''; 
 }
 
-alert(firstChar(text));
+alert(firstChar('Hello World'));
